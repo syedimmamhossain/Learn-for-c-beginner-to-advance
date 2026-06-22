@@ -4,7 +4,7 @@ Welcome to the **Learn-for-c-beginner-to-advance** repository! This project is d
 
 ---
 
-## 🚀 Project Overview
+## Overview
 
 The repository is organized into a week-by-week curriculum. Each directory contains specific coding challenges, practice problems, and solutions aimed at building a strong foundational understanding of computer science concepts using C.
 
@@ -13,10 +13,4 @@ The repository is organized into a week-by-week curriculum. Each directory conta
 
 ---
 
-## 📁 Repository Structure
 
-The project follows a structured directory layout:
-
-```text
-└── week-1/
-    └── [Basic C programming problems, exercises, and solutions]
