@@ -10,7 +10,6 @@ The repository is organized into a week-by-week curriculum. Each directory conta
 
 * **Target Audience:** Beginners starting their coding journey, students, or anyone looking to refresh their C programming skills.
 * **Focus Areas:** Problem-solving, logic building, memory management, and efficient coding practices.
-
 ---
 
 
